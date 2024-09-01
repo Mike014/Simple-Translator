@@ -35,13 +35,13 @@ The application is a simple translator based on Django that allows users to inpu
 
 ## Installation
 1. Clone the project repository.
-   **git clone https://github.com/Mike014/Simple-Translator.git**
+     **git clone https://github.com/Mike014/Simple-Translator.git**
 3. Install the required dependencies.
-   **cd Simple-Translator**
+     **cd Simple-Translator**
 5. Run the database migrations.
-  **pip install -r requirements.txt**
+    **pip install -r requirements.txt**
 7. Start the Django development server.
-   **python manage.py runserver**
+     **python manage.py runserver**
 
 ## Conclusion
 This project provides a simple base for a translation application using Django and Google Translate. It can be extended with additional features such as support for more languages or integration with other translation services.
